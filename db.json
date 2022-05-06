@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "https://images.pexels.com/photos/11921988/pexels-photo-11921988.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Product name",
+      "count": 4,
+      "description": "some text here",
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        "CommentModel",
+        "CommentModel"
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://images.pexels.com/photos/11218997/pexels-photo-11218997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Product name",
+      "count": 4,
+      "description": "some text here",
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        "CommentModel",
+        "CommentModel"
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://images.pexels.com/photos/5218478/pexels-photo-5218478.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Product name",
+      "count": 4,
+      "description": "some text here",
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        "CommentModel",
+        "CommentModel"
+      ]
+    },
+    {
+      "name": "Audi",
+      "description": "Fastest car",
+      "count": 5,
+      "weight": "1500",
+      "id": 4,
+      "imageUrl": "https://images.pexels.com/photos/5218478/pexels-photo-5218478.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
